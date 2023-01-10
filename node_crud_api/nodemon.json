@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "luanaduma",
+        "DB_PASSWORD": "luanaadmin",
+        "DB_NAME": "flutter_server",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
